@@ -1,0 +1,1 @@
+[1, 2, 3].forEach(val => console.log(val));
